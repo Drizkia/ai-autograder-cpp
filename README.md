@@ -13,6 +13,10 @@
 ## Installation
 - fnm install
 - npm install
+
+- cd frontend
+- npm install -g pnpm
+- pnpm approve-builds
 - pnpm run dev
 
 ## Tech Stack
@@ -29,7 +33,7 @@
 ### Sandbox
 - Docker
 ### Evaluating
-- AI Engine (Anthropic/Open AI/Google Gemini
+- AI Engine (Anthropic/Open AI/Google Gemini)
 
 ## Folder Structure
 Project/
